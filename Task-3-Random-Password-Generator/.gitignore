@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Demo captures can show generated passwords; review them before sharing.
+screenshots/random password generate.png
+recordings/OIBSIP_Python_Task3_Random_Password_Generator.mp4
